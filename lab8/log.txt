@@ -1,0 +1,16 @@
+1c0b7f3 fix checkstyle
+fb55b1a update log
+45557a4 Fix checkstyle issues
+dbf40a3 Final log.txt update
+8ee0698 Task 2.4: Split loop and extract total volume credits and total amount methods
+679eb7c Task 2.3: Remove frmt variable and extract usd method
+671b410 Task 2.2: Extract volume credits calculation to getVolumeCredits method
+8372475 Task 2.1: Extract switch logic to getAmount method, extract getPlay method, inline variables
+504c4d6 Task 1.2: Update git log
+23d0ed5 Task 1.1: Fix CheckStyle issues
+2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
+b545fe2 clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c8d9d38 adding starter files
+cbe4517 first commit
